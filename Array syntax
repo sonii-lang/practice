@@ -1,0 +1,8 @@
+// Array declaration
+dataType[] arrayName;
+
+// Array creation
+arrayName = new dataType[size];
+
+// Declaration + Creation
+dataType[] arrayName = new dataType[size];
