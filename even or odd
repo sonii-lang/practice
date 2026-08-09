@@ -1,0 +1,9 @@
+Class abc{
+public static void main (String []args ){
+int a =5;
+if (n%2==0);
+system.out.println ("nuber is positive");
+else 
+system.out.println ("number is negative");
+}
+}
